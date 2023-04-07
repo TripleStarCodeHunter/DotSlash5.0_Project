@@ -1,6 +1,6 @@
 # DotSlash5.0_Project
 
-Project Name :- SUPREME DIET TRACKER 
+Project Name :- Nutrient Tracker
 
 Description :-
 
